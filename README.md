@@ -95,5 +95,3 @@ To receive and respond to real messages, you must expose your local port `8000` 
    * Send a text message to your WhatsApp Business Test Phone number.
    * Check your terminal logs. The chatbot will receive the message, request Gemini, and reply.
 # whatsapp_chatbot
-# Live-chatbot-ss-jewellery
-# Live-chatbot-ss-jewellery
